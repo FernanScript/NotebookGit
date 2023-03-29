@@ -16,3 +16,6 @@ Agrega los archivos o el archivo que quiero tener en mi repositorio.
 
 ## git commit -m ""
 Describo de manera precisa y concisa los cambios que he hecho.
+
+## git revert
+Revierte los cambios que hemos hecho y crea un nuevo commit.
