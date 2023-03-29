@@ -28,3 +28,6 @@ Es la carpeta local donde estamos haciendo las modificaciones.
 
 ## ¿Qué es hash?
 Es el número de identificación del commit.
+
+## git log
+Me permite ver todos los commits con su hash, autor y fecha de creación.
