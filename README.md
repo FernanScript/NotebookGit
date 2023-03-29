@@ -10,3 +10,6 @@ Lo utilizo para verficar los archivos que tengo en mi carpeta local.
 
 ## git diff
 Muestra la diferencias entre la versión anterior guardada con la actual.
+
+## git add
+Agrega los archivos o el archivo que quiero tener en mi repositorio.
