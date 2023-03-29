@@ -52,3 +52,6 @@ Git se da cuenta que existe un conflicto y realiza el merge automáticamente. Su
 
 ## Merge de forma manual en conflictos
 Git se da cuenta que existe un conflicto y te envía un mensaje para que tú lo resuelvas. Sucede cuando se hacen cambios en la misma linea del archivo.
+
+## Pull request
+Es parecido a un commit por la función que hace. guarda los cambios en la rama del cual hiciste push y la fusiona con otras ramas.
