@@ -4,3 +4,6 @@
 
 ## git init
 Se utiliza para inicializar la carpeta donde haremos las modificaciones
+
+## git status
+Lo utilizo para verficar los archivos que tengo en mi carpeta local.
