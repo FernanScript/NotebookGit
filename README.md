@@ -40,3 +40,6 @@ Permite volver al commit anterior.
 
 ## git checkout nombre_rama
 Me permite cambiar de rama.
+
+## git remote add origin URL
+Permite agregar tu carpeta con archivos al repositorio del URL.
