@@ -34,5 +34,9 @@ Me permite ver todos los commits con su hash, autor y fecha de creación.
 
 ## git branch -m nombre_rama
 Me permite crear una rama.
+
 ## git checkout id_commit
 Permite volver al commit anterior.
+
+## git checkout nombre_rama
+Me permite cambiar de rama.
