@@ -19,3 +19,6 @@ Describo de manera precisa y concisa los cambios que he hecho.
 
 ## git revert
 Revierte los cambios que hemos hecho y crea un nuevo commit.
+
+## git reset
+Permite deshacer los cambios sin crear un nuevo commit.
