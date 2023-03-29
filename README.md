@@ -49,3 +49,6 @@ Une dos ramas para mezclar los dos archivos que tengas en distintas ramas.
 
 ## Merge de forma automatica en conflictos
 Git se da cuenta que existe un conflicto y realiza el merge automáticamente. Sucede cuando se hicieron cambios del mismo archivo en diferentes horas.
+
+## Merge de forma manual en conflictos
+Git se da cuenta que existe un conflicto y te envía un mensaje para que tú lo resuelvas. Sucede cuando se hacen cambios en la misma linea del archivo.
