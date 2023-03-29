@@ -25,3 +25,6 @@ Permite deshacer los cambios sin crear un nuevo commit.
 
 ## ¿Qué es Staging area?
 Es la carpeta local donde estamos haciendo las modificaciones.
+
+## ¿Qué es hash?
+Es el número de identificación del commit.
