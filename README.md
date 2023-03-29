@@ -31,3 +31,6 @@ Es el número de identificación del commit.
 
 ## git log
 Me permite ver todos los commits con su hash, autor y fecha de creación.
+
+## git checkout id_commit
+Permite volver al commit anterior.
