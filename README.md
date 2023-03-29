@@ -13,3 +13,6 @@ Muestra la diferencias entre la versión anterior guardada con la actual.
 
 ## git add
 Agrega los archivos o el archivo que quiero tener en mi repositorio.
+
+## git commit -m ""
+Describo de manera precisa y concisa los cambios que he hecho.
