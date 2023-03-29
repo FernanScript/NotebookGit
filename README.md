@@ -22,3 +22,6 @@ Revierte los cambios que hemos hecho y crea un nuevo commit.
 
 ## git reset
 Permite deshacer los cambios sin crear un nuevo commit.
+
+## ¿Qué es Staging area?
+Es la carpeta local donde estamos haciendo las modificaciones.
