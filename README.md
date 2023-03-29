@@ -43,3 +43,6 @@ Me permite cambiar de rama.
 
 ## git remote add origin URL
 Permite agregar tu carpeta con archivos al repositorio del URL.
+
+## git merge
+Une dos ramas para mezclar los dos archivos que tengas en distintas ramas.
