@@ -46,3 +46,6 @@ Permite agregar tu carpeta con archivos al repositorio del URL.
 
 ## git merge
 Une dos ramas para mezclar los dos archivos que tengas en distintas ramas.
+
+## Merge de forma automatica en conflictos
+Git se da cuenta que existe un conflicto y realiza el merge automáticamente. Sucede cuando se hicieron cambios del mismo archivo en diferentes horas.
