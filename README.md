@@ -19,6 +19,9 @@
 - [Merge de forma automatica en conflictos](#Merge-de-forma-automatica-en-conflictos)
 - [Merge de forma manual en conflictos](#Merge-de-forma-manual-en-conflictos)
 - [Pull request](#Pull-request)
+- [git tag](#git-tag)
+- [git tag -s](git-tag-s#)
+- [gitignore](#gitignore)
 
 ## git init
 Se utiliza para inicializar la carpeta donde haremos las modificaciones
@@ -79,3 +82,6 @@ Son identificadores que coloca el usuario para marcarlo como importante.
 
 ## git tag -s
 Se utiliza para firmar los commits.
+
+## gitignore
+Su función es denegar algunos archivos para que no entre al repositorio remoto.
