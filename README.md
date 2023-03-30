@@ -1,24 +1,24 @@
 # Resumen de los comandos aprendidos en la primera clase de GIT
 
 ## Comandos aprendidos
-- [git init](#git init)
-- [git status](#git status)
-- [git diff](#git diff)
-- [git add](#git add)
-- [git commit -m ""](#git commit -m "")
-- [git revert](#git revert)
-- [git reset](#git reset)
-- [¿Que es Staging area?](#¿Qué es Staging area?)
-- [¿Que es hash?](#¿Qué es hash?)
-- [git log](#git log)
-- [git branch -m nombre_rama](#git branch -m nombre_rama)
-- [git checkout id_commit](#git checkout id_commit)
-- [git checkout nombre_rama](#git checkout nombre_rama)
-- [git remote add origin URL](#git remote add origin URL)
-- [git merge](#git merge)
-- [Merge de forma automatica en conflictos](#Merge de forma automatica en conflictos)
-- [Merge de forma manual en conflictos](#Merge de forma manual en conflictos)
-- [Pull request](#Pull request)
+- [git init](#git-init)
+- [git status](#git-status)
+- [git diff](#git-diff)
+- [git add](#git-add)
+- [git commit -m ""](#git-commit--m-"")
+- [git revert](#git-revert)
+- [git reset](#git-reset)
+- [¿Que es Staging area?](#¿Qué-es-Staging-area?)
+- [¿Que es hash?](#¿Qué-es-hash?)
+- [git log](#git-log)
+- [git branch -m nombre_rama](#git-branch--m-nombre_rama)
+- [git checkout id_commit](#git-checkout-id_commit)
+- [git checkout nombre_rama](#git-checkout-nombre_rama)
+- [git remote add origin URL](#git-remote-add-origin-URL)
+- [git merge](#git-merge)
+- [Merge de forma automatica en conflictos](#Merge-de-forma-automatica-en-conflictos)
+- [Merge de forma manual en conflictos](#Merge-de-forma-manual-en-conflictos)
+- [Pull request](#Pull-request)
 
 ## git init
 Se utiliza para inicializar la carpeta donde haremos las modificaciones
@@ -73,3 +73,6 @@ Git se da cuenta que existe un conflicto y te envía un mensaje para que tú lo 
 
 ## Pull request
 Es parecido a un commit por la función que hace. guarda los cambios en la rama del cual hiciste push y la fusiona con otras ramas.
+
+## git tag
+Son identificadores que coloca el usuario para marcarlo como importante.
