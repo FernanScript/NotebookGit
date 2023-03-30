@@ -73,3 +73,6 @@ Git se da cuenta que existe un conflicto y te envía un mensaje para que tú lo 
 
 ## Pull request
 Es parecido a un commit por la función que hace. guarda los cambios en la rama del cual hiciste push y la fusiona con otras ramas.
+
+## git tag
+Son identificadores que coloca el usuario para marcarlo como importante.
