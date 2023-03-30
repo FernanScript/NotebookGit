@@ -76,3 +76,6 @@ Es parecido a un commit por la función que hace. guarda los cambios en la rama 
 
 ## git tag
 Son identificadores que coloca el usuario para marcarlo como importante.
+
+## git tag -s
+Se utiliza para firmar los commits.
